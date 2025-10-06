@@ -1,0 +1,2 @@
+Problem:Analysis of ECG signal and effect of averaging:
+Read the ECG signal provided in “ECG”. Samples provided in the excel sheet are obtained with a sampling rate of 360 Hz. Compute the DFT of the signal and plot the magnitude of DFT vs. frequency. Calculate the heart rate (beats per minute) for the given ECG signal from both time and frequency domain representations. Also, pass the ECG signal through a moving average filter of order 3 and 5 and plot the filter output as a function of time. Comment on the filtered output.
